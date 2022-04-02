@@ -1,0 +1,67 @@
+/* IndexPage */
+.bodyIndex{
+    
+
+}
+.lets-Play{
+    
+    width: 400px;
+    height: 30px; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto ;
+    
+    
+    
+}
+
+.backgroundPic{
+    width: 400px;
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+/* GamePage */
+
+.game-intro{
+    display: flex;
+    justify-content: center;
+}
+.esquerda{
+
+}
+.arrows{
+    width: 150px;
+    height: 100px;
+}
+.meio{
+
+}
+.game-background{
+    width: 700px;
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    padding: 2px;
+    margin: 20px;
+}
+.direita{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    padding: 10px 5px 10px 2px;
+
+}
+#start-button{
+    width: 150px;
+    height: 50px;
+    
+}
+.reStart{
+    width: 150px;
+    height: 50px;
+}
